@@ -1,3 +1,28 @@
-= Modelica Tool Ensemble - Logos
+= Logos
 
-image::MoTE_long.svg[]
+This repository contains logos for the Modelica Tool Ensemble and its
+sub-projects.
+
+== Modelica Tool Ensemble
+
+image::svgs/MoTE.svg[]
+image::svgs/MoTE_short.svg[]
+image::svgs/MoTE_big.svg[]
+
+== Modelica Diagram Editor
+
+image::svgs/MoDE.svg[]
+image::svgs/MoDE_short.svg[]
+image::svgs/MoDE_big.svg[]
+
+= Modelica | Editor
+
+image::svgs/MoPE.svg[]
+image::svgs/MoPE_short.svg[]
+image::svgs/MoPE_big.svg[]
+
+= Modelica Vector Editor
+
+image::svgs/MoVE.svg[]
+image::svgs/MoVE_short.svg[]
+image::svgs/MoVE_big.svg[]
