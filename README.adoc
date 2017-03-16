@@ -1,0 +1,3 @@
+= Modelica Tool Ensemble - Logos
+
+image::MoTE_long.svg[]
