@@ -1,28 +1,42 @@
+:imagesdir: https://rawgit.com/THM-MoTE/Logos/master/svgs
+:height: 50
+:img_path: svgs
 = Logos
 
 This repository contains logos for the Modelica Tool Ensemble and its
 sub-projects.
 
 == Modelica Tool Ensemble
-
-image::svgs/MoTE.svg[]
-image::svgs/MoTE_short.svg[]
-image::svgs/MoTE_big.svg[]
-
+:value: MoTE
+[cols="a,a,a"]
+|===
+|image::{value}.svg[link="{img_path}/{value}.svg"]
+|image::{value}_short.svg[link="{img_path}/{value}_short.svg"]
+|image::{value}_big.svg[link="{img_path}/{value}_big.svg"]
+|===
 == Modelica Diagram Editor
+:value: MoDE
+[cols="a,a,a"]
+|===
+|image::{value}.svg[link="{img_path}/{value}.svg"]
+|image::{value}_short.svg[link="{img_path}/{value}_short.svg"]
+|image::{value}_big.svg[link="{img_path}/{value}_big.svg"]
+|===
 
-image::svgs/MoDE.svg[]
-image::svgs/MoDE_short.svg[]
-image::svgs/MoDE_big.svg[]
+== Modelica | Editor
+:value: MoPE
+[cols="a,a,a"]
+|===
+|image::{value}.svg[link="{img_path}/{value}.svg"]
+|image::{value}_short.svg[link="{img_path}/{value}_short.svg"]
+|image::{value}_big.svg[link="{img_path}/{value}_big.svg"]
+|===
 
-= Modelica | Editor
-
-image::svgs/MoPE.svg[]
-image::svgs/MoPE_short.svg[]
-image::svgs/MoPE_big.svg[]
-
-= Modelica Vector Editor
-
-image::svgs/MoVE.svg[]
-image::svgs/MoVE_short.svg[]
-image::svgs/MoVE_big.svg[]
+== Modelica Vector Editor
+:value: MoVE
+[cols="a,a,a"]
+|===
+|image::{value}.svg[link="{img_path}/{value}.svg"]
+|image::{value}_short.svg[link="{img_path}/{value}_short.svg"]
+|image::{value}_big.svg[link="{img_path}/{value}_big.svg"]
+|===
