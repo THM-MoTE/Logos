@@ -6,6 +6,14 @@
 This repository contains logos for the Modelica Tool Ensemble and its
 sub-projects.
 
+== Font
+
+Since the authors of MoVE, Mo|E and MoDE are no longer in our working group, we do not know for sure, which font was used to produce the original logos.
+The font for MoST was therefore chosen using the [Font Squirrel Matchinator](https://www.fontsquirrel.com/matcherator), which found [Spartan MB](https://www.fontsquirrel.com/fonts/spartan-mb) in the thickness ExtraBold (shown in Inkscape as "Ultra-Bold") as the closest match.
+This font is now available in the folder `fonts`.
+Font sizes used are 37 pt and 79.5 pt.
+For MoST there also exist variants of the SVG image ending in `.text.svg` that contain editable text and can be used for developing further MoTE tools.
+
 == Modelica Tool Ensemble
 :value: MoTE
 [cols="a,a,a"]
