@@ -40,3 +40,13 @@ sub-projects.
 |image::{value}_short.svg[link="{img_path}/{value}_short.svg"]
 |image::{value}_big.svg[link="{img_path}/{value}_big.svg"]
 |===
+
+== Modelica Scripting Tools
+
+:value: MoST
+[cols="a,a,a"]
+|===
+|image::{value}.svg[link="{img_path}/{value}.svg"]
+|image::{value}_short.svg[link="{img_path}/{value}_short.svg"]
+|image::{value}_big.svg[link="{img_path}/{value}_big.svg"]
+|===
